@@ -212,5 +212,6 @@ cursor: pointer;
 }
 #Search,#discreption,#Categories,#Area,#Ingredients,#contact{
   display: none;
-  
+position:relative; 
+    left:20px
 }
