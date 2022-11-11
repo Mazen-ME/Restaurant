@@ -216,11 +216,14 @@ cursor: pointer;
   
 }
 
+
+
+
 .container{
-padding: 20px 20px 20px 20px !important;
+padding: 20px 40px !important;
   position: relative !important;
 
-left: 30px;
-top: 40px;
+left: 50px;
+top: 30px;
 }
 
