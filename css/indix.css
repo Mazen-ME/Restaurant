@@ -212,6 +212,15 @@ cursor: pointer;
 }
 #Search,#discreption,#Categories,#Area,#Ingredients,#contact{
   display: none;
-position:relative !important; 
-    left:20px !important;
+
+  
 }
+
+.container{
+padding: 20px 40px !important;
+  position: relative !important;
+
+left: 50px;
+top: 50px;
+}
+
