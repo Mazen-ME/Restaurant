@@ -216,6 +216,10 @@ cursor: pointer;
   
 }
 
+.firstSectionFood{
+     position: relative !important;
+    left: 50px !important;
+}
 
 
 
